@@ -1,0 +1,44 @@
+.Common{
+    text-align: center;
+}
+
+
+.Header{
+    background-color: whitesmoke;
+    height: 100px;
+    line-height: 100px;
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+.Footer{
+    bottom: 0px;
+    left: 5px;
+    right: 5px;
+    position: fixed;
+    background-color: lightblue;
+}
+
+.Body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+
+.links{
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+    background-color: whitesmoke;
+    bottom: 10px;
+    position: fixed;
+    left: 5px;
+    right: 5px;
+    color: blue;
+}
